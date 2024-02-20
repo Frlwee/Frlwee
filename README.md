@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **DireckWave**
+ 🔭 I’m currently working on **DirectWave**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
